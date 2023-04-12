@@ -82,6 +82,8 @@ Similarly you can keep asking question and you will keep getting answers.  You c
 
 ## Note:  You can play around with different request and response object parameter to best suits your needs.
 
+Complete API Reference: https://platform.openai.com/docs/api-reference
+
 **Request Object**
 ![image](https://user-images.githubusercontent.com/30829678/231583626-58d85323-c217-4351-a553-06bae5386946.png)
 
