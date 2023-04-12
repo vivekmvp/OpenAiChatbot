@@ -1,5 +1,5 @@
 # Open AI Chatbot with C#
-Create your own Open AI Chatbot in C# by consuming Open AI API
+Create your own Open AI Chatbot in C# by consuming Open AI API  (Integrating ChatGPT)
 
 -----
 
